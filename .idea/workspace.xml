@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="начальное занятие по Java на профкурсе">
-      <changelist_data name="Eduard Dietzel" email="banderol.ed@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Firma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson3/InterfaceAbcExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson3/PolymorphismExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson1/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2Inheritance/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson2Inheritance/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2Inheritance/inheritanceExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson2Inheritance/inheritanceExamples.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="добавились новые файлы" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676021893909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="добавились новые файлы">
+      <created>1676408641059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676408641059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +192,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="начальное занятие по Java на профкурсе" />
-    <option name="LAST_COMMIT_MESSAGE" value="начальное занятие по Java на профкурсе" />
+    <MESSAGE value="добавились новые файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавились новые файлы" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
