@@ -8,11 +8,9 @@ public class InterfaceAbcExamples {
 }
 
 class Calculator extends AbsCalculator {
-
     Calculator(int a, int b) {
         super(a, b);
     }
-
     // если мы захотим переопределить метод из родительского класса, то следующие дочерние классы наследуют уже новый класс отсюда, например
 //    @Override
 //    int sum(int a, int b) {
@@ -21,15 +19,12 @@ class Calculator extends AbsCalculator {
 
     @Override
     int mult() { return getA() * getB(); }
-
     @Override
     int subt() { return getA() - getB(); }
-
     @Override
     int div() { return getA() / getB(); }
 }
 abstract class AbsCalculator {
-
     private final int a;
     private final int b;
 
@@ -49,5 +44,4 @@ abstract class AbsCalculator {
 
     public int getA() { return a; }
     public int getB() { return b; }
-
 }
