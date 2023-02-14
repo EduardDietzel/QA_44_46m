@@ -1,4 +1,4 @@
-package lesson2Inheritance;
+package javaLessonsRoman.lesson2Inheritance;
 
 public class Example2 {
     public static void main(String[] args) {

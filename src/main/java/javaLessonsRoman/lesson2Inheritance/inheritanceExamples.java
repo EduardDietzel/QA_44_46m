@@ -1,4 +1,4 @@
-package lesson2Inheritance;
+package javaLessonsRoman.lesson2Inheritance;
 
 
 // Наследование - функция
