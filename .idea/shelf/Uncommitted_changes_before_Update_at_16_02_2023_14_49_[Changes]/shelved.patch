@@ -1,0 +1,228 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e2230f70-b9fc-4346-8cbe-f2be85da0f55\" name=\"Changes\" comment=\"добавились новые файлы\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Eduard Dietzel &lt;banderol.ed@gmail.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"36ffdd94-2626-4ddf-8552-42c36e2f4923\" />\r\n        <option name=\"url\" value=\"https://github.com/EduardDietzel/QA_44_46m\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"importingSettings\">\r\n      <MavenImportingSettings>\r\n        <option name=\"workspaceImportEnabled\" value=\"true\" />\r\n      </MavenImportingSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2LPGWQ1ooirSaDXadlAi9RoZ0Dx\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.fonts.default\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.PolymorphismExamples\">\r\n    <configuration name=\"Example2\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"lesson2Inheritance.Example2\" />\r\n      <module name=\"QA_44_46m\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"lesson2Inheritance.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"InterfaceAbcExamples\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"javaLessonsRoman.lesson3.InterfaceAbcExamples\" />\r\n      <module name=\"QA_44_46m\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"javaLessonsRoman.lesson3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"javaPro.Main\" />\r\n      <module name=\"QA_44_46m\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"javaPro.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"PolymorphismExamples\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"javaLessonsRoman.lesson3.PolymorphismExamples\" />\r\n      <module name=\"QA_44_46m\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"javaLessonsRoman.lesson3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"inheritanceExamples\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"lesson2Inheritance.inheritanceExamples\" />\r\n      <module name=\"QA_44_46m\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"lesson2Inheritance.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.PolymorphismExamples\" />\r\n        <item itemvalue=\"Application.InterfaceAbcExamples\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.Example2\" />\r\n        <item itemvalue=\"Application.inheritanceExamples\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e2230f70-b9fc-4346-8cbe-f2be85da0f55\" name=\"Changes\" comment=\"\" />\r\n      <created>1675765338260</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1675765338260</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"начальное занятие по Java на профкурсе\">\r\n      <created>1675941058345</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675941058345</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"начальное занятие по Java на профкурсе\">\r\n      <created>1676021893909</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676021893909</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"добавились новые файлы\">\r\n      <created>1676408641059</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676408641059</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"начальное занятие по Java на профкурсе\" />\r\n    <MESSAGE value=\"добавились новые файлы\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"добавились новые файлы\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision beb59468af8bc6b5d430887cd967fbd765a0add2)
++++ b/.idea/workspace.xml	(date 1676553285050)
+@@ -4,15 +4,27 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="добавились новые файлы" />
++    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="проверочные изменения в файле для проверки на гитхаб">
++      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson4enum/EnumExamples.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson4enum/EnumExamplesMain.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/taskMikhail/taskLesson3/HashMapExample.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/taskMikhail/taskLesson3/STR.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="CodeStyleSettingsInfer">
++    <option name="done" value="true" />
++  </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
++        <option value="Enum" />
+         <option value="Class" />
+       </list>
+     </option>
+@@ -26,11 +38,11 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="SIGN_OFF_COMMIT" value="true" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -48,6 +60,9 @@
+         <option name="workspaceImportEnabled" value="true" />
+       </MavenImportingSettings>
+     </option>
++  </component>
++  <component name="ProjectCodeStyleSettingsMigration">
++    <option name="version" value="2" />
+   </component>
+   <component name="ProjectId" id="2LPGWQ1ooirSaDXadlAi9RoZ0Dx" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -61,16 +76,17 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
++    "last_opened_file_path": "C:/Users/bande/IdeaProjects/NewProjectForJava",
++    "settings.editor.selected.configurable": "preferences.editor"
+   }
+ }]]></component>
+-  <component name="RunManager" selected="Application.PolymorphismExamples">
+-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="lesson2Inheritance.Example2" />
++  <component name="RunManager" selected="Application.STR">
++    <configuration name="EnumExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="javaLessonsRoman.lesson4enum.EnumExamples" />
+       <module name="QA_44_46m" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="lesson2Inheritance.*" />
++          <option name="PATTERN" value="javaLessonsRoman.lesson4enum.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -117,12 +133,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="inheritanceExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="lesson2Inheritance.inheritanceExamples" />
++    <configuration name="STR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="taskMikhail.taskLesson3.STR" />
+       <module name="QA_44_46m" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="lesson2Inheritance.*" />
++          <option name="PATTERN" value="taskMikhail.taskLesson3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -132,11 +148,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.STR" />
++        <item itemvalue="Application.EnumExamples" />
+         <item itemvalue="Application.PolymorphismExamples" />
+         <item itemvalue="Application.InterfaceAbcExamples" />
+         <item itemvalue="Application.Main" />
+-        <item itemvalue="Application.Example2" />
+-        <item itemvalue="Application.inheritanceExamples" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -170,7 +186,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1676408641059</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="проверочные изменения в файле для проверки на гитхаб">
++      <created>1676409262564</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1676409262564</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -193,7 +216,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="начальное занятие по Java на профкурсе" />
+     <MESSAGE value="добавились новые файлы" />
+-    <option name="LAST_COMMIT_MESSAGE" value="добавились новые файлы" />
++    <MESSAGE value="проверочные изменения в файле для проверки на гитхаб" />
++    <option name="LAST_COMMIT_MESSAGE" value="проверочные изменения в файле для проверки на гитхаб" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
+Index: src/main/java/taskMikhail/taskLesson3/HashMapExample.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/taskMikhail/taskLesson3/HashMapExample.java b/src/main/java/taskMikhail/taskLesson3/HashMapExample.java
+new file mode 100644
+--- /dev/null	(date 1676554630468)
++++ b/src/main/java/taskMikhail/taskLesson3/HashMapExample.java	(date 1676554630468)
+@@ -0,0 +1,21 @@
++package taskMikhail.taskLesson3;
++
++import java.util.HashMap;
++import java.util.Map;
++
++public class HashMapExample {
++    public static void main(String[] args) {
++
++        Map<Integer, String> map = new HashMap<>();
++
++        map.put(1, "Juri");
++        map.put(2, "Anita");
++        map.put(3, "Eduard");
++        map.put(4, "Stepan");
++        map.put(5, "Karina");
++        map.put(6, "Irina");
++        System.out.println(map.hashCode());
++
++    }
++}
++// TODO: 16/02/2023 Collection
+Index: .idea/codeStyles/Project.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/codeStyles/Project.xml b/.idea/codeStyles/Project.xml
+new file mode 100644
+--- /dev/null	(date 1676473115529)
++++ b/.idea/codeStyles/Project.xml	(date 1676473115529)
+@@ -0,0 +1,7 @@
++<component name="ProjectCodeStyleConfiguration">
++  <code_scheme name="Project" version="173">
++    <ScalaCodeStyleSettings>
++      <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
++    </ScalaCodeStyleSettings>
++  </code_scheme>
++</component>
+\ No newline at end of file
+Index: src/main/java/taskMikhail/taskLesson3/STR.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/taskMikhail/taskLesson3/STR.java b/src/main/java/taskMikhail/taskLesson3/STR.java
+new file mode 100644
+--- /dev/null	(date 1676550759682)
++++ b/src/main/java/taskMikhail/taskLesson3/STR.java	(date 1676550759682)
+@@ -0,0 +1,25 @@
++package taskMikhail.taskLesson3;
++
++public class STR {
++    public static void main(String[] args) {
++        String s = "ASD";
++        // String s1 = new String("ASD");
++        // System.out.println(s == s1);
++        // String s1 = s + 1 + "[";
++        // System.out.println(s1);
++
++        // если надо все время менять строку - лучше использовать Стрингбилдер!
++        StringBuilder sb = new StringBuilder("1");
++        sb.append("A").append("2").append("X");
++
++        // TODO узнать работу StringBuffer
++        StringBuffer sb1 = new StringBuffer();
++
++        System.out.println(sb);
++
++        String i = "11";
++        String i1 = "11";
++        System.out.println(i == i1);
++
++    }
++}
