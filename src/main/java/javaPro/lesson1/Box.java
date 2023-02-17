@@ -1,4 +1,4 @@
-package javaPro;
+package javaPro.lesson1;
 
 public class Box {
     private double width;
