@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Занятие по Стрингам и Мапе таск 16.02.2023">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson2HWObzor/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson2HWObzor/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson2HWObzor/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson2HWObzor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson2HWObzor/StaffEmployee.java" afterDir="false" />
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="первая версия по решению Домашки 15.02.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson1/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson1/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson1/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson1/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson4enum/EnumExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaLessonsRoman/lesson4enum/EnumExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,26 +76,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.javaPro.lesson2.Main">
+  <component name="RunManager" selected="Application.EnumExamples">
     <configuration name="EnumExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaLessonsRoman.lesson4enum.EnumExamples" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaLessonsRoman.lesson4enum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterfaceAbcExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaLessonsRoman.lesson3.InterfaceAbcExamples" />
-      <module name="QA_44_46m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaLessonsRoman.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaLessonsRoman.lesson3.PolymorphismExamples" />
+    <configuration name="Trip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.hw1.Trip" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaLessonsRoman.lesson3.*" />
+          <option name="PATTERN" value="homeworks.hw1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +116,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="STR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taskMikhail.taskLesson3.STR" />
+    <configuration name="org.example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example2.Main" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="taskMikhail.taskLesson3.*" />
+          <option name="PATTERN" value="org.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example3.Main" />
+      <module name="QA_44_46m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javaPro.lesson2.Main" />
-        <item itemvalue="Application.STR" />
         <item itemvalue="Application.EnumExamples" />
-        <item itemvalue="Application.PolymorphismExamples" />
-        <item itemvalue="Application.InterfaceAbcExamples" />
+        <item itemvalue="Application.Trip" />
+        <item itemvalue="Application.org.example3.Main" />
+        <item itemvalue="Application.org.example2.Main" />
+        <item itemvalue="Application.javaPro.lesson2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +210,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676576480247</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Занятие по домашке создание компании 17.02.2023">
+      <created>1676627573515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676627573515</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Дополнения файлов на практике 18.02.2023">
+      <created>1676969652097</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676969652097</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Новые файлы на практике Джава про 18.02.2023">
+      <created>1676969706664</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676969706664</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Изменения в файлы по разбору Домашки 17.02.2023">
+      <created>1676969800246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676969800246</updated>
+    </task>
+    <task id="LOCAL-00012" summary="первая версия по решению Домашки 15.02.2023">
+      <created>1676969873938</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676969873938</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +271,12 @@
     <MESSAGE value="проверочные изменения в файле для проверки на гитхаб" />
     <MESSAGE value="Занятие по Enum теория 16.02.2023" />
     <MESSAGE value="Занятие по Стрингам и Мапе таск 16.02.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Занятие по Стрингам и Мапе таск 16.02.2023" />
+    <MESSAGE value="Занятие по домашке создание компании 17.02.2023" />
+    <MESSAGE value="Дополнения файлов на практике 18.02.2023" />
+    <MESSAGE value="Новые файлы на практике Джава про 18.02.2023" />
+    <MESSAGE value="Изменения в файлы по разбору Домашки 17.02.2023" />
+    <MESSAGE value="первая версия по решению Домашки 15.02.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="первая версия по решению Домашки 15.02.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
