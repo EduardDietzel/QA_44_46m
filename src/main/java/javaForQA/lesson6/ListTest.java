@@ -1,9 +1,7 @@
 package javaForQA.lesson6;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Objects;
 
 public class ListTest {
     public static void main(String[] args) {
