@@ -6,9 +6,11 @@ public class Main {
         Department security = new Department("Security", apple);
         Department economy = new Department("Economy", apple);
         Employee john = new Employee("John", security);
+        Employee max = new Employee("Max",economy);
         apple.setCompanyName("Apple inc");
 
-        System.out.println(john.getDepartment().getCompany().getCompanyName());
+        System.out.println(john.getDepartment().getDepartmentName());
+        System.out.println(max.getDepartment().getCompany().getCompanyName());
 
         Department develop = new Department("Develop", new Company("IBM"));
         // тут мы создали новый отдел, но в новой компании, которую мы не будем использовать больше как объект
