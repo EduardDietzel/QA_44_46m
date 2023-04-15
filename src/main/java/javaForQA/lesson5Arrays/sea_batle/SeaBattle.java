@@ -3,22 +3,25 @@ package javaForQA.lesson5Arrays.sea_batle;
 import java.util.Scanner;
 
 public class SeaBattle {
+    static Scanner scanner = new Scanner(System.in);
     public static Player[] players = new Player[2];
 
     public static void main(String[] args) {
-
-        // создание игроков
+        // Это главный метод, он будет включать в себя отдельные методы.
+        // Здесь будем писать только их названия
+        // 1. создание игроков
         createPlayers();
-        // заполнить поля игроков
+        // 2. Заполнить поля игроков. Запускаем метод
         fillPlayerFields();
-        // старт игры
-        // вывод результатов
+        // 2. старт игры
+
+        // 4. вывод результатов
 
     }
 
     private static void createPlayers() {
-        Scanner scanner = new Scanner(System.in);
-
+//        Scanner scanner = new Scanner(System.in);
+        // метод для создания двух игроков
         System.out.println("Морской бой.");
         System.out.println("Игрок 1, введите своё имя: ");
         String name = scanner.nextLine();
@@ -31,7 +34,11 @@ public class SeaBattle {
 
     }
 
+    // Заполнять игровые поля должен каждый игрок
     private static void fillPlayerFields() {
+        // проходим циклом по массиву игроков
+        // где у каждого игрока вызовем метод fillGameField
+        // поскольку игроков два, то и итерации будет две
         for (Player player : players) {
             player.fillGameField();
         }

@@ -5,11 +5,13 @@ import java.util.Scanner;
 public class Player {
 
     private String name;
-    private  char[][] field;
+    private char[][] field;
     private int fieldSize = 10;
+    // координаты полей будут индексы массивов
     private int[][] deckShipAmount = {{4, 1}, {3, 2}, {2, 3}, {1, 4}};
-    private char emptyCell = '.';
-    private char valueForShip = 'O';
+    // массив с кораблями - (кол-во палуб, кол-во кораблей)
+    private char emptyCell = '.';  // переменная - пустая ячейка
+    private char valueForShip = 'O';  // переменная обозначения корабля на поле
     private boolean isAlive = true;
 
     public Player(String name) {
@@ -31,6 +33,7 @@ public class Player {
         return name;
     }
 
+    // метод первоначального заполнения полей
     private void initialField() {
         for (int i = 0; i < fieldSize; i++) {
             for (int j = 0; j < fieldSize; j++) {
@@ -48,27 +51,31 @@ public class Player {
         }
     }
 
+    // метод для заполнения полей игроками
     public void fillGameField() {
+        // нужен массив
         Scanner scanner = new Scanner(System.in);
         for (int[] row : deckShipAmount) {
-            int decks = row[0];
-            int ships = row[1];
+            int decks = row[0]; // кол-во палуб
+            int ships = row[1]; // кол-во кораблей
 
             for (int i = 0; i < ships; i++) {
                 System.out.printf("%s, разместите корабль на %d палубы.\n", name, decks);
                 System.out.println("Введите ряд:");
                 // здесь везде должны быть проверки на корректность введенных значений.
-                int x = Integer.parseInt(scanner.nextLine());
+                int inputtedRow = Integer.parseInt(scanner.nextLine());
                 System.out.println("Введите столбец.");
-                int y = Integer.parseInt(scanner.nextLine());
-                System.out.println("Выберите расположение: 1 - горизонтальное, 2 - вертикальное");
+                int inputtedColumn = Integer.parseInt(scanner.nextLine());
+                System.out.println("Выберите расположение: 1 - горизонтальное, 2 - вертикальное.");
                 int direction = Integer.parseInt(scanner.nextLine());
 
                 // Проверка корректности введенных координат.
-//                boolean result = isCoordinatesCorrect(inputtedRow, inputtedColumn, direction, decks);
+                // Не выходит ли корабль за пределы игрового поля.
+                // Не соприкасается ли корабль с соседним кораблем.
+                boolean result = isCoordinatesCorrect(inputtedRow, inputtedColumn, direction, decks);
                 // В зависимости от результата либо размещать корабль, либо заставить игрока повторить ввод координат.
 
-                placeShip(x, y, direction, decks);
+                placeShip(inputtedRow, inputtedColumn, direction, decks); // метод, рисующий корабль
                 printField();
 
                 //  заменить: x - inputtedRow, y - inputtedColumn
@@ -80,9 +87,8 @@ public class Player {
         for (int i = 0; i < decks; i++) {
             field[x][y] = valueForShip;
             if (direction == 1) {
-                x++;
-            } else { y++; }
-
+                y++;
+            } else { x++; }
         }
     }
 
