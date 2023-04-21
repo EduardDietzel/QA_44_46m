@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Sea battle first version (classwork)">
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Sea battle added comments (homework)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson7iteator/task1/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson7iteator/task1/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson7iteator/task2/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson7iteator/task3/SpliteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson7iteator/task4/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson7iteator/task4/MyListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson5Arrays/sea_batle/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson5Arrays/sea_batle/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson5Arrays/sea_batle/SeaBattle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson5Arrays/sea_batle/SeaBattle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +77,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SeaBattle">
+  <component name="RunManager" selected="Application.MyListTest">
+    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task1.IteratorTest" />
+      <module name="QA_44_46m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForQA.lesson7iteator.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task2.ListIteratorTest" />
+      <module name="QA_44_46m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForQA.lesson7iteator.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson6.ListTest" />
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task1.ListTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson6.*" />
+          <option name="PATTERN" value="javaForQA.lesson7iteator.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson2HWObzor.Main" />
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task4.MyListTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson2HWObzor.*" />
+          <option name="PATTERN" value="javaForQA.lesson7iteator.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,38 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.hw3.Phone" />
+    <configuration name="SpliteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task3.SpliteratorTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.hw3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeaBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson5Arrays.sea_batle.SeaBattle" />
-      <module name="QA_44_46m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaForQA.lesson5Arrays.sea_batle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homeworks.hw1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.hw1.Main" />
-      <module name="QA_44_46m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworks.hw1.*" />
+          <option name="PATTERN" value="javaForQA.lesson7iteator.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeaBattle" />
-        <item itemvalue="Application.homeworks.hw1.Main" />
-        <item itemvalue="Application.Phone" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.SpliteratorTest" />
+        <item itemvalue="Application.ListIteratorTest" />
         <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.IteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681413713391</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Sea battle added comments (homework)">
+      <created>1681559994581</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1681559994581</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +417,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value="moved Trip" />
     <MESSAGE value="Sea battle first version (classwork)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sea battle first version (classwork)" />
+    <MESSAGE value="Sea battle added comments (homework)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sea battle added comments (homework)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
