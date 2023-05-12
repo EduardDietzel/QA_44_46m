@@ -1,4 +1,4 @@
-package javaForQA.lesson7iteator.task4;
+package javaForQA.lesson7_Iteator.task4;
 
 public class MyList {
     private String[] elements = new String[20];

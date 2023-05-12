@@ -1,4 +1,4 @@
-package javaForQA.lesson7iteator.task3;
+package javaForQA.lesson7_Iteator.task3;
 
 import java.util.ArrayList;
 import java.util.List;

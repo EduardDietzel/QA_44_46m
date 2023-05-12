@@ -1,6 +1,4 @@
-package javaForQA.lesson7iteator.task1;
-
-import com.sun.jdi.connect.spi.TransportService;
+package javaForQA.lesson7_Iteator.task1;
 
 import java.util.*;
 

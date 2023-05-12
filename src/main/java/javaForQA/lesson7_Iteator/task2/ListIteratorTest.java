@@ -1,7 +1,6 @@
-package javaForQA.lesson7iteator.task2;
+package javaForQA.lesson7_Iteator.task2;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 
