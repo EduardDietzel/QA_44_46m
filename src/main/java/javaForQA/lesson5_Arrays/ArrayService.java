@@ -1,4 +1,4 @@
-package javaForQA.lesson5Arrays;
+package javaForQA.lesson5_Arrays;
 
 public class ArrayService {
 

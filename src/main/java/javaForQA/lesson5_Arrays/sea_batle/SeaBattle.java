@@ -1,4 +1,4 @@
-package javaForQA.lesson5Arrays.sea_batle;
+package javaForQA.lesson5_Arrays.sea_batle;
 
 import java.util.Scanner;
 
