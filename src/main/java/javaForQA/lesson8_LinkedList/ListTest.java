@@ -1,4 +1,4 @@
-package javaForQA.lesson8linkedlist;
+package javaForQA.lesson8_LinkedList;
 
 public class ListTest {
     public static void main(String[] args) {

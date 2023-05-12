@@ -1,6 +1,5 @@
-package javaForQA.lesson8linkedlist;
+package javaForQA.lesson8_LinkedList;
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.Iterator;
 
 public class MyLinkedList implements Iterable<String>{
