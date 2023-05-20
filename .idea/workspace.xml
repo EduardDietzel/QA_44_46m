@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson (Iterator) 21.04.2023">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson8linkedlist/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson8linkedlist/MyLinkedList.java" afterDir="false" />
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson5 (Array) 24.03.2023">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw4/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task1/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task2/QueueTast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task3/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyDequeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,17 +75,17 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bande/IdeaProjects/NewProjectForJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bande/IdeaProjects/saucedemo-4&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.javaForQA.lesson8linkedlist.ListTest">
-    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task2.ListIteratorTest" />
+  <component name="RunManager" selected="Application.javaForQA.lesson11Stack.task3.StackTest">
+    <configuration name="CatCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson10_Coparing.task2.CatCompare" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson7iteator.task2.*" />
+          <option name="PATTERN" value="javaForQA.lesson10_Coparing.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task1.ListTest" />
+    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson10_Coparing.task2.CatTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson7iteator.task1.*" />
+          <option name="PATTERN" value="javaForQA.lesson10_Coparing.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task4.MyListTest" />
+    <configuration name="QueueTast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task2.QueueTast" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson7iteator.task4.*" />
+          <option name="PATTERN" value="javaForQA.lesson11Stack.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpliteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson7iteator.task3.SpliteratorTest" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task1.StackTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson7iteator.task3.*" />
+          <option name="PATTERN" value="javaForQA.lesson11Stack.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaForQA.lesson8linkedlist.ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson8linkedlist.ListTest" />
+    <configuration name="javaForQA.lesson11Stack.task3.StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task3.StackTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson8linkedlist.*" />
+          <option name="PATTERN" value="javaForQA.lesson11Stack.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javaForQA.lesson8linkedlist.ListTest" />
-        <item itemvalue="Application.MyListTest" />
-        <item itemvalue="Application.SpliteratorTest" />
-        <item itemvalue="Application.ListIteratorTest" />
-        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.javaForQA.lesson11Stack.task3.StackTest" />
+        <item itemvalue="Application.QueueTast" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.CatCompare" />
+        <item itemvalue="Application.CatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +381,49 @@
       <option name="project" value="LOCAL" />
       <updated>1682077450370</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added new lesson (Linked List) 28.04.2023">
+      <created>1682764932098</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1682764932098</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added new lesson10 (Compare) 12.05.2023">
+      <created>1683888481218</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888481218</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added new lesson9 (Set) 5.05.2023">
+      <created>1683888605826</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888605826</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added new lesson7 (Iterator) 21.04.2023">
+      <created>1683888758939</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888758939</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added new lesson8 (LinkedList) 28.04.2023">
+      <created>1683888804699</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888804699</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added new lesson5 (Array) 24.03.2023">
+      <created>1683888923610</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888923610</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,12 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="добавились новые файлы" />
-    <MESSAGE value="проверочные изменения в файле для проверки на гитхаб" />
-    <MESSAGE value="Занятие по Enum теория 16.02.2023" />
-    <MESSAGE value="Занятие по Стрингам и Мапе таск 16.02.2023" />
-    <MESSAGE value="Занятие по домашке создание компании 17.02.2023" />
-    <MESSAGE value="Дополнения файлов на практике 18.02.2023" />
     <MESSAGE value="Новые файлы на практике Джава про 18.02.2023" />
     <MESSAGE value="Изменения в файлы по разбору Домашки 17.02.2023" />
     <MESSAGE value="первая версия по решению Домашки 15.02.2023" />
@@ -421,7 +463,13 @@
     <MESSAGE value="Sea battle first version (classwork)" />
     <MESSAGE value="Sea battle added comments (homework)" />
     <MESSAGE value="Added new lesson (Iterator) 21.04.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson (Iterator) 21.04.2023" />
+    <MESSAGE value="Added new lesson (Linked List) 28.04.2023" />
+    <MESSAGE value="Added new lesson10 (Compare) 12.05.2023" />
+    <MESSAGE value="Added new lesson9 (Set) 5.05.2023" />
+    <MESSAGE value="Added new lesson7 (Iterator) 21.04.2023" />
+    <MESSAGE value="Added new lesson8 (LinkedList) 28.04.2023" />
+    <MESSAGE value="Added new lesson5 (Array) 24.03.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson5 (Array) 24.03.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
