@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson5 (Array) 24.03.2023">
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson11 (Stack) 19.05.2023">
       <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw4/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task1/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task2/QueueTast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task3/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyDequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12HashMap/task1/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12HashMap/task2/Tickets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6/ListTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,26 +77,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.javaForQA.lesson11Stack.task3.StackTest">
-    <configuration name="CatCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson10_Coparing.task2.CatCompare" />
+  <component name="RunManager" selected="Application.Tickets">
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson12HashMap.task1.MapTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson10_Coparing.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson10_Coparing.task2.CatTest" />
-      <module name="QA_44_46m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaForQA.lesson10_Coparing.task2.*" />
+          <option name="PATTERN" value="javaForQA.lesson12HashMap.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,6 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson12HashMap.task2.Tickets" />
+      <module name="QA_44_46m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForQA.lesson12HashMap.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="javaForQA.lesson11Stack.task3.StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task3.StackTest" />
       <module name="QA_44_46m" />
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tickets" />
+        <item itemvalue="Application.MapTest" />
         <item itemvalue="Application.javaForQA.lesson11Stack.task3.StackTest" />
         <item itemvalue="Application.QueueTast" />
         <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.CatCompare" />
-        <item itemvalue="Application.CatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683888923610</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Added new lesson11 (Stack) 19.05.2023">
+      <created>1684616527399</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1684616527399</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +449,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Новые файлы на практике Джава про 18.02.2023" />
     <MESSAGE value="Изменения в файлы по разбору Домашки 17.02.2023" />
     <MESSAGE value="первая версия по решению Домашки 15.02.2023" />
     <MESSAGE value="Лекция Романа по нумерации Enum 17.02.2023" />
@@ -469,7 +473,8 @@
     <MESSAGE value="Added new lesson7 (Iterator) 21.04.2023" />
     <MESSAGE value="Added new lesson8 (LinkedList) 28.04.2023" />
     <MESSAGE value="Added new lesson5 (Array) 24.03.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson5 (Array) 24.03.2023" />
+    <MESSAGE value="Added new lesson11 (Stack) 19.05.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson11 (Stack) 19.05.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

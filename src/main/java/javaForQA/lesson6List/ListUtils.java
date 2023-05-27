@@ -1,4 +1,4 @@
-package javaForQA.lesson6;
+package javaForQA.lesson6List;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,7 @@
-package javaForQA.lesson6;
+package javaForQA.lesson6List;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class ListTasks {
     public static void main(String[] args) {
