@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson11 (Stack) 19.05.2023">
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson12 (HashMap) 26.05.2023">
       <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw4/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12HashMap/task1/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12HashMap/task2/Tickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/AnotherFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/StudentFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/StudentUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/ConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/PredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/SupplierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6/ListTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +86,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tickets">
+  <component name="RunManager" selected="Application.SupplierTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson13Func.Task1.Main" />
+      <module name="QA_44_46m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForQA.lesson13Func.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaForQA.lesson12HashMap.task1.MapTest" />
       <module name="QA_44_46m" />
@@ -91,25 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task2.QueueTast" />
+    <configuration name="SupplierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson13Func.Task3.SupplierTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson11Stack.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task1.StackTest" />
-      <module name="QA_44_46m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaForQA.lesson11Stack.task1.*" />
+          <option name="PATTERN" value="javaForQA.lesson13Func.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaForQA.lesson11Stack.task3.StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson11Stack.task3.StackTest" />
+    <configuration name="javaForQA.lesson13Func.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson13Func.Task2.Main" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson11Stack.task3.*" />
+          <option name="PATTERN" value="javaForQA.lesson13Func.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplierTest" />
+        <item itemvalue="Application.javaForQA.lesson13Func.Task2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Tickets" />
         <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.javaForQA.lesson11Stack.task3.StackTest" />
-        <item itemvalue="Application.QueueTast" />
-        <item itemvalue="Application.StackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684616527399</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Added new lesson12 (HashMap) 26.05.2023">
+      <created>1685224534796</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224534797</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,7 +465,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Изменения в файлы по разбору Домашки 17.02.2023" />
     <MESSAGE value="первая версия по решению Домашки 15.02.2023" />
     <MESSAGE value="Лекция Романа по нумерации Enum 17.02.2023" />
     <MESSAGE value="Лекция Андрея про наследования 03.03.2023" />
@@ -474,7 +489,8 @@
     <MESSAGE value="Added new lesson8 (LinkedList) 28.04.2023" />
     <MESSAGE value="Added new lesson5 (Array) 24.03.2023" />
     <MESSAGE value="Added new lesson11 (Stack) 19.05.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson11 (Stack) 19.05.2023" />
+    <MESSAGE value="Added new lesson12 (HashMap) 26.05.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson12 (HashMap) 26.05.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
