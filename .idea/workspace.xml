@@ -4,22 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added new lesson12 (HashMap) 26.05.2023">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw4/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/AnotherFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/StudentFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/StudentUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/StringOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/SupplierTest.java" afterDir="false" />
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="save a file 2.06.2023">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task1/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task2/ConvertTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/AnimalUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/LandAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task4/DefaultMethodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task5/IdentityMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task6/SupplierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task7/SupplierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task8/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task9/PredicateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,13 +88,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SupplierTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson13Func.Task1.Main" />
+  <component name="RunManager" selected="Application.PredicateTest">
+    <configuration name="IdentityMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson14PracticFunc.task5.IdentityMethodTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson13Func.Task1.*" />
+          <option name="PATTERN" value="javaForQA.lesson14PracticFunc.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson12HashMap.task1.MapTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson14PracticFunc.task8.Main" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson12HashMap.task1.*" />
+          <option name="PATTERN" value="javaForQA.lesson14PracticFunc.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson14PracticFunc.task9.PredicateTest" />
+      <module name="QA_44_46m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForQA.lesson14PracticFunc.task9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="SupplierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson13Func.Task3.SupplierTest" />
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson14PracticFunc.task7.SupplierTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson13Func.Task3.*" />
+          <option name="PATTERN" value="javaForQA.lesson14PracticFunc.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,25 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson12HashMap.task2.Tickets" />
+    <configuration name="javaForQA.lesson14PracticFunc.task6.SupplierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson14PracticFunc.task6.SupplierTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson12HashMap.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaForQA.lesson13Func.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson13Func.Task2.Main" />
-      <module name="QA_44_46m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaForQA.lesson13Func.Task2.*" />
+          <option name="PATTERN" value="javaForQA.lesson14PracticFunc.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SupplierTest" />
-        <item itemvalue="Application.javaForQA.lesson13Func.Task2.Main" />
+        <item itemvalue="Application.PredicateTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Tickets" />
-        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.SupplierTest" />
+        <item itemvalue="Application.javaForQA.lesson14PracticFunc.task6.SupplierTest" />
+        <item itemvalue="Application.IdentityMethodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +446,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685224534797</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added new lesson13 () 2.06.2023">
+      <created>1685823939811</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1685823939811</updated>
+    </task>
+    <task id="LOCAL-00041" summary="save a file 2.06.2023">
+      <created>1685824024443</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1685824024443</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -465,8 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="первая версия по решению Домашки 15.02.2023" />
-    <MESSAGE value="Лекция Романа по нумерации Enum 17.02.2023" />
     <MESSAGE value="Лекция Андрея про наследования 03.03.2023" />
     <MESSAGE value="Домашнее задание про наследования 04.03.2023" />
     <MESSAGE value="Лекция по нумерации от 10.03.2023" />
@@ -490,7 +504,9 @@
     <MESSAGE value="Added new lesson5 (Array) 24.03.2023" />
     <MESSAGE value="Added new lesson11 (Stack) 19.05.2023" />
     <MESSAGE value="Added new lesson12 (HashMap) 26.05.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new lesson12 (HashMap) 26.05.2023" />
+    <MESSAGE value="Added new lesson13 () 2.06.2023" />
+    <MESSAGE value="save a file 2.06.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="save a file 2.06.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
