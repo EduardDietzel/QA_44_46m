@@ -4,21 +4,105 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added a new files for lesson at 09.06.2023">
-      <change afterPath="$PROJECT_DIR$/fileTest/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstDir/secondDir/thirdDir/fourthDir/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstDir/secondDir/thirdDir/fourthDir/print.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstDir/secondDir/thirdDir/fourthDir/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task1/FormattedOutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task1/OutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task1/OutTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task2/BufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task2/InTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task2/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task3/ErrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task4/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task5/FileOutTest.java" afterDir="false" />
+    <list default="true" id="e2230f70-b9fc-4346-8cbe-f2be85da0f55" name="Changes" comment="Added a new files for new lesson18 at 6.07.2023">
+      <change afterPath="$PROJECT_DIR$/dataTest/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectTest/object.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task1/TryCatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task2/FileInputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task2/FileOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task3/DataInputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task3/DataOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task4/ObjectInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task4/ObjectOutputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson16_TryCatch/task6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson17/task1/PatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson17/task2/MatcherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson17/task3/CaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson17/task4/SplitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson19/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson19/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson19/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson19/task3/TooBigAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson19/task3/TooSmallAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson20_Date/task1/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson20_Date/task1/DateTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson20_Date/task2/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson20_Date/task3/LocalDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson20_Date/task4/LocalDateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson20_Date/task5/ZonedDateTimeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson1/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson1/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task1/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11_Stack/task1/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task2/QueueTast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11_Stack/task2/QueueTast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task3/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11_Stack/task3/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11_Stack/task4/MyArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11_Stack/task4/MyDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11Stack/task4/MyDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson11_Stack/task4/MyDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12HashMap/task1/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12_HashMap/task1/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12HashMap/task2/Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson12_HashMap/task2/Tickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/AnotherFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/AnotherFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/StudentFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/StudentFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task1/StudentUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task1/StudentUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task2/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/StringOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task2/StringOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task2/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task2/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task3/ConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/PredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task3/PredicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13Func/Task3/SupplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson13_Func/Task3/SupplierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task1/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task1/FunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task2/ConvertTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task2/ConvertTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task3/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task3/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/AnimalUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task3/AnimalUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task3/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task3/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task3/LandAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task3/LandAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task4/DefaultMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task4/DefaultMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task5/IdentityMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task5/IdentityMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task6/SupplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task6/SupplierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task7/SupplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task7/SupplierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task8/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task8/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14PracticFunc/task9/PredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson14_PracticFunc/task9/PredicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task1/FormattedOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task1/FormattedOutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task1/OutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task1/OutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task1/OutTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task1/OutTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task2/BufferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task2/BufferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task2/InTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task2/InTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task2/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task2/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task3/ErrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task3/ErrTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task4/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task4/FileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15Stream/task5/FileOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson15_Stream/task5/FileOutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson18/task6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2Extends/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson2_Extends/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3Enum/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3_Enum/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3Enum/Deal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3_Enum/Deal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3Enum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3_Enum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3Enum/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson3_Enum/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6_List/ListTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6_List/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6List/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaForQA/lesson6_List/ListUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,24 +157,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/bande/IdeaProjects/selenium",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bande/Desktop/Tel-Ran/socialnetwork&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FileOutTest">
-    <configuration name="BufferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson15Stream.task2.BufferTest" />
+}</component>
+  <component name="RunManager" selected="Application.ZonedDateTimeTest">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson20_Date.task2.CalendarTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson15Stream.task2.*" />
+          <option name="PATTERN" value="javaForQA.lesson20_Date.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson15Stream.task3.ErrTest" />
+    <configuration name="DateTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson20_Date.task1.DateTest2" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson15Stream.task3.*" />
+          <option name="PATTERN" value="javaForQA.lesson20_Date.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson15Stream.task5.FileOutTest" />
+    <configuration name="LocalDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson20_Date.task3.LocalDateTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson15Stream.task5.*" />
+          <option name="PATTERN" value="javaForQA.lesson20_Date.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson15Stream.task4.FileTest" />
+    <configuration name="LocalDateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson20_Date.task4.LocalDateTimeTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson15Stream.task4.*" />
+          <option name="PATTERN" value="javaForQA.lesson20_Date.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson15Stream.task2.InTest" />
+    <configuration name="ZonedDateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForQA.lesson20_Date.task5.ZonedDateTimeTest" />
       <module name="QA_44_46m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaForQA.lesson15Stream.task2.*" />
+          <option name="PATTERN" value="javaForQA.lesson20_Date.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileOutTest" />
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.ErrTest" />
-        <item itemvalue="Application.BufferTest" />
-        <item itemvalue="Application.InTest" />
+        <item itemvalue="Application.ZonedDateTimeTest" />
+        <item itemvalue="Application.LocalDateTimeTest" />
+        <item itemvalue="Application.LocalDateTest" />
+        <item itemvalue="Application.CalendarTest" />
+        <item itemvalue="Application.DateTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +547,22 @@
       <option name="project" value="LOCAL" />
       <updated>1686308982451</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Added a new files for new lesson15 at 16.06.2023">
+      <created>1686911900986</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1686911900986</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added a new files for new lesson18 at 6.07.2023">
+      <option name="closed" value="true" />
+      <created>1688654146537</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1688654146537</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,8 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Домашнее задание про наследования 04.03.2023" />
-    <MESSAGE value="Лекция по нумерации от 10.03.2023" />
     <MESSAGE value="Added homework &quot;Person&quot; and &quot;Phone&quot; by 24.02.2023" />
     <MESSAGE value="Обновление файлов лекции от 17.03.2023" />
     <MESSAGE value="Обновление файлов первых 3-х лекций" />
@@ -509,7 +606,9 @@
     <MESSAGE value="Added new lesson13 () 2.06.2023" />
     <MESSAGE value="save a file 2.06.2023" />
     <MESSAGE value="Added a new files for lesson at 09.06.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a new files for lesson at 09.06.2023" />
+    <MESSAGE value="Added a new files for new lesson15 at 16.06.2023" />
+    <MESSAGE value="Added a new files for new lesson18 at 6.07.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a new files for new lesson18 at 6.07.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

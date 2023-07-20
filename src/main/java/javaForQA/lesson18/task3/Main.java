@@ -1,6 +1,6 @@
 package javaForQA.lesson18.task3;
 
-import javaForQA.lesson16TryCatch.task4.Cat;
+import javaForQA.lesson16_TryCatch.task4.Cat;
 
 public class Main {
 

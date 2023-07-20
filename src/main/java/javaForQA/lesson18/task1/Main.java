@@ -1,6 +1,6 @@
 package javaForQA.lesson18.task1;
 
-import javaForQA.lesson16TryCatch.task4.Cat;
+import javaForQA.lesson16_TryCatch.task4.Cat;
 
 import java.util.ArrayList;
 import java.util.List;
